@@ -1,0 +1,266 @@
+@media screen and (max-width:576px){
+    /* Beginning of header */
+    .list-item{
+        font-size:90%;
+        margin-left: 2.5%;
+        text-align: center;
+        margin-top: 12px;
+        
+    }
+    .logo{
+        width: 100%;
+    }
+    .logo img{
+        width: 32%;
+        margin-top: 1.5%;
+    }
+    .list{
+        width: 100%;
+        padding-bottom:3%;
+    }
+    .header-content{
+        padding-top: 125px; /*145 to 220*/
+    }
+    .header-content img{
+        width: 90%;
+    }
+    .header{
+        height: 700px;
+    }
+    .overlay{
+        height:700px;
+    }
+    .header h1{
+        font-size: 36px;
+    }
+    .header p{
+        margin-top: 10px;
+        font-size: 30px;
+    }
+    .book-visit , .learn-more{
+        margin-top: 17px;
+    }
+    /* End of header */
+
+    /* Beginning of Content 1 */
+    .Content-1 .Content-1-image{
+        height: 490px;
+        float: none;
+        margin-top: 25px;
+        width:95%;
+        margin-left: 2.5%;
+        margin-right: 2.5%;
+    }
+    .Content-1 .Content-1-image img{
+        width:100%;
+    }
+    .Content-1 .Content-1-Text{
+        width: 90%;
+        margin-left: 5%;
+        margin-right: 5%;
+        margin-top: 0px;
+        padding-bottom: 150px;
+    }
+    .Content-1 .Content-1-Text ul li{
+        line-height: 45px;
+    }
+    .header .Pop-up{
+        top:150px;
+    }
+    /* End of Content 1 */
+
+    /* Beginning of Content 2 */
+    .Content-2{
+        height:1000px; 
+    }
+
+    .Content-2 .Content-2-Text{
+        width:90%;
+        margin-left: 5%;
+        margin-right: 5%;
+        margin-top: 15px;
+    }
+
+    .Content-2 img{
+        width:90%;
+        margin-left: 5%;
+        margin-right: 5%;
+        margin-top: 20px;
+    }
+
+    /* End of Content 2 */
+    
+    /* Beginning of Content-3 */
+    .Content-3-background-image{
+        height: 50vh;
+    }
+    /*  End of Content-3*/
+
+    /* Beginning of Content 4 */
+    .First-Row{
+        display: inline-block;
+        font-size: 18px;
+        margin-bottom: 0px;
+    }
+    .Second-Row{
+        display:inline-block;
+        font-size: 18px;
+    }
+    .Content-4-meals{
+        width:90%;
+        text-align: center;
+        margin-left: 5%;
+        margin-right: 5%; 
+    }
+    .Content-4 .Content-4-meals img{
+        margin-top: 50px;
+    }
+
+    /* End of Content 4 */
+
+
+    /* Beginning of Content 5 */
+    .Content-5{
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    .Content-5 .Content-5-Text{
+        width:90%;
+        margin-left: 5%;
+        margin-right: 5%;
+        margin-bottom: 50px;
+    }
+    .Content-5 iframe{
+        width:90%;
+        margin-left: 5%;
+        margin-right: 5%;
+        height:500px;
+    }
+    /* End of Content 5 */
+
+
+    /* Beginning of Content 6 */
+    .Content-6 .Content-6-All{
+        margin-left: 0px;
+        padding-bottom: 90px;
+    }
+    .Content-6 .Content-6-blocks{
+        width:90%;
+        margin-bottom: 45px;
+        margin-left:5%;
+        margin-right:5%;
+        float: none;
+    }
+    .Content-6{
+        padding-bottom: 20px;
+    }
+    .Content-6 .backgroundImage{
+        position:absolute;
+        
+    }
+    /* End of Content 6 */
+
+
+    /* Beginning of Content 7 */
+.Content-7 img{
+    width:75%;
+}
+    /*  End of Content 7*/
+
+}
+
+@media screen and (min-width:577px) and (max-width:768px){
+    
+
+
+}
+@media screen and (min-width:769px) and (max-width:992px){
+    
+
+    
+}
+/* @media screen and (min-width:993px) and (max-width:1590px){ */
+    @media screen and (min-width:993px) and (max-width:1605px){
+    /* Start of header */
+    .header-content{
+        padding-top: 100px;
+    }
+    .list{
+        padding-bottom:.7%;
+    }
+
+    /* End of header */
+
+    /*start of Content 1 */
+    .Content-1{
+        padding-bottom: 200px;
+    }
+
+    .Content-1 .Content-1-image{
+       width:300px;
+       margin-left: 100px;
+       margin-top: 100px;
+    }
+    .Content-1 .Content-1-Text{
+        margin-top:220px;
+        margin-right:0px;
+        margin-left: 10px;
+    }
+
+    /* End of content 1 */
+
+    /* beginning of Content 2 */
+    .Content-2 .container-2{
+        width:95%;
+        text-align: center;
+        margin-left: 2.5%;
+        margin-right: 2.5%;
+    } 
+    .Content-2 img{
+        width:430px;
+        margin-top: 180px;
+        margin-left: 50px;
+    }
+    .Content-2 .Content-2-Text{
+        margin-left: 100px;
+        width:35%;
+        text-align: left;
+    }
+    /* End Of Content 2 */
+
+    /* Beginning of Content 3 */
+
+    .Content-3-background-image{
+        height: 50vh;
+    }
+    /* End of Content 3 */
+
+    /* beginning of content 4 */
+    .Content-4-meals{
+        width:24%;
+    }
+    /* end of content 4 */
+
+    /*  beginning of Content 5 */
+    .Content-5{
+        float: none;
+    }
+    .Content-5 .Content-5-Text{
+        width:64%;
+        margin-left: 18%;
+        margin-right: 18%;
+        margin-bottom: 30px;
+    }
+    .Content-5 iframe{
+        width:64%;
+        margin-left: 18%;
+        margin-right: 18%;
+    }
+    /*  End of Content 5*/
+
+    .Content-6 .Content-6-All{
+        margin-left: 150px;
+    }
+
+    /* End of Content 2 */
+}
